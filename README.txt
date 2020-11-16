@@ -31,3 +31,6 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+		
+##NOTA: NÃO TEMOS NENHUM OBJETIVO EM LUCRAR, É APENAS DE CUNHO EDUCACIONAL, TODOS OS DIREITOS RESERVADOS AOS AUTORES DAS IMAGENS E SOFTWARES.
